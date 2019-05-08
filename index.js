@@ -143,4 +143,5 @@
         }
 
         // This will start off the Architect Scripting code and call the doWork function.
-        scriptingSession.startWithClientIdAndSecret(location, doWork, clientId, clientSecret);
+       // scriptingSession.startWithClientIdAndSecret(location, doWork, clientId, clientSecret);
+       scriptingSession.startWithAuthToken(location, doWork, '8rfWbg6B69OHX4Fq2GbH_Lwe1-KJ-fXx1IKjMyN2uEeZBrk67J9VNlmV2xN6F-Y62SbGIWwAjb1euRIQS2P6rg');
