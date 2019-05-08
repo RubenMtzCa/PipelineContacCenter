@@ -7,7 +7,7 @@
         // See above in the readme for information on creating a client id / secret.
         // We will use these when starting the Architect Scripting session below.
         // Remember, the Architect Scripting session object also has a way to start
-        // with you supplying an auth token too.
+        // with you supplying an auth token too. Add Test
         // --------------------------------------------------------------------------------
         const clientId = '70d4378a-6717-4749-8349-0ad2c9a4459a';
         const clientSecret = '1x2E_h_3rXatCM9WzoeL0e-ZYphkLVzdlOhI0p6jVqY';
