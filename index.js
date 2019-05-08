@@ -15,7 +15,7 @@
         // --------------------------------------------------------------------------------
         // Flow name and description constants for the flow that will be created.
         // --------------------------------------------------------------------------------
-        const flowName = 'MyFlow';
+        const flowName = 'MyFlow_Script';
         const flowDescription = 'This is a flow created using Architect Scripting';
 
         // --------------------------------------------------------------------------------
