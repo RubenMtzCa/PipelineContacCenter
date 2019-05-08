@@ -21,7 +21,7 @@ pipeline
         stage ('Test')
         {
             steps{
-                sh 'node -v'
+                sh 'node test'
             }
         }
     }
