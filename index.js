@@ -52,6 +52,7 @@
             // memory at this point.  We'll publish it later to make it available to
             // someone using Architect.  We use the flow factory to create the inbound
             // call flow.
+            console.log('Entramos al flujo de la funcion dowork');
             return scriptingFlowFactory.createFlowInboundCallAsync(flowName, flowDescription, scriptingLanguages
                 .englishUnitedStates,
                 function (archInboundCallFlow) {
